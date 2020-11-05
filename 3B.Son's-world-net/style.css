@@ -1,0 +1,65 @@
+*{ margin:0; padding:0; }
+
+
+
+h1{
+  font-size: 600%;
+  font-family:'Lobster', cursive;
+  background: #0B0B61;
+  display: inline;
+  color:#0000FF;
+  }
+
+  h2{
+    font-size: 300%;
+    font-family:'Grenze Gotisch', cursive;
+    background: #04B404;
+    display: inline;
+    color:#58FA58;}
+ 
+.date{
+ font-size: 140%;
+
+ font-family:'Architects Daughter', cursive;
+ background: orangered;
+ color:
+}
+
+.korea{
+  font-size: 140%;
+  font-family: 'Architects Daughter', cursive;
+  background: #FF0080;
+  color:#8A0886;
+
+}
+
+.busan{
+  width: 30%;
+  background-color: yellow;
+}
+
+.look{
+  position: absolute;
+  top: 800px;
+  left: 550px;
+  color: #00BFFF;
+  font-family:'Indie Flower', cursive;
+  font-size: 200%;
+
+}
+
+.s{
+ font-family: 'Indie Flower', cursive;
+ font-size: 190%;
+ background: #FFFF00;
+ color:#AEB404;
+}
+
+.m{font-family: 'Indie Flower', cursive;
+font-size: 150%;
+background:#0404B4;
+color:#0080FF;
+
+}
+
+
