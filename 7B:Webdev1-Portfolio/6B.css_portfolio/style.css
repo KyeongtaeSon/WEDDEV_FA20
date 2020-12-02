@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(1, 48, 136);
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 50px;
+
+}
+
+a{
+  display: inline-block;
+  margin: 20px;
+
+}
+
+
+img{
+    max-width: 100px;
+
+}
+
+body{
+  background-color: lightgray;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@700&display=swap');

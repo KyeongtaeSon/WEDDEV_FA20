@@ -1,0 +1,67 @@
+*{margin: 0; padding: 0;}
+
+h1{
+  background: blue;
+  font-size: 80px;
+  display: inline;
+  color: white;
+  border: 10px dashed #ffffff;
+  margin:  250px;
+  
+ }
+
+h2{
+  font-size: 30px;
+  color:lightblue;
+  margin: 50px;
+  
+  
+  
+  
+}
+
+h3{
+   Background: gray;
+  color:white;
+  display: inline;
+  margin: 500px;
+  font-size: 150%;
+  
+  
+  
+  
+  
+  
+  
+}
+img{
+  height: 30vw;
+  width: 50vh; 
+  
+}
+.p{
+  background: pink;
+  margin: 100px;
+  padding: 10%;
+  border: 5px solid gray;
+ 
+ 
+  
+ }
+
+p{
+  font-size: 40px;  
+}
+
+.s{
+  background: orange;
+  margin: 100px;
+  border: 5px solid gray;
+  padding: 10%;
+
+}
+
+
+
+  
+
