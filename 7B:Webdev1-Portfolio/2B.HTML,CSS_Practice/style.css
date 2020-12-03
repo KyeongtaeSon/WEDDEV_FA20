@@ -1,33 +1,24 @@
-*{margin: 0; padding: 0;}
-
 body{
-  margin:0;
+  margin: 10%;
+  background-image:url('https://www.stkconf.org/wp-content/uploads/2018/10/Web-Page-Background-Color.jpg');
+  font-family: 'Cute Font', cursive;
 }
 
-
 h2{
-  font-size: 30px;
-  color:lightblue;
-  margin: 50px;
-  
-  
-  
-  
+  font-size: 70px;
+  color:rgb(54, 118, 202);
+ 
 }
 
 h3{
-   Background: gray;
-  color:white;
-  display: inline;
-  margin: 500px;
-  font-size: 150%;
+  font-size: 50px;
+  color:rgb(121, 121, 121);
   
-  
-  
-  
-  
-  
-  
+}
+
+h4{
+  font-size:30px;
+  color:rgb(121, 121, 121);
 }
 img{
   height: 30vw;
@@ -35,12 +26,11 @@ img{
   
 }
 .p{
-  background: pink;
+  background: rgb(143, 187, 253);
   margin: 100px;
   padding: 10%;
-  border: 5px solid gray;
- 
- 
+  border: 5px solid rgb(17, 107, 224);
+  border-radius: 5%;
   
  }
 
@@ -49,9 +39,10 @@ p{
 }
 
 .s{
-  background: orange;
+  background: rgb(143, 187, 253);
   margin: 100px;
-  border: 5px solid gray;
+  border: 5px solid  rgb(17, 107, 224);
+  border-radius: 5%;
   padding: 10%;
 
 }
@@ -84,6 +75,7 @@ p{
   color: rgb(46, 45, 45);
   display: center;
   font-size: 100%;
+  
 
 }
 
@@ -103,16 +95,18 @@ p{
 
 
 header{
-  margin-top: 80px;
-  font-size: 200%;
-  color: white;
-  background: blue;
- 
+  
+  font-size: 500%;
+  color: rgb(122, 179, 255);;
+  font-family: 'Bebas Neue', cursive;
   display: inline;
-  color: white;
-  border: 10px dashed #ffffff;
-  margin:  250px;
+  border: 5px solid rgb(159, 197, 255);
+  border-radius: 10px;
+  
+  
   }
+
+  
   
   
 
