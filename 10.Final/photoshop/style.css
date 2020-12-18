@@ -1,0 +1,97 @@
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  list-style-type: none;
+  top:0;
+  opacity: 0.8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 200%;
+  margin:0;
+  padding:0;
+  position:fixed;
+  
+}
+
+.nav-item{
+  padding: 15px;
+  cursor: pointer;
+}
+
+.nav-item a{
+  text-align: center;
+  text-decoration: none;
+  color: rgb(46, 45, 45);
+  display: center;
+  font-size: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: red;
+  font-family: 'Raleway', sans-serif;
+  font-size: 400%;
+  background-size: cover;
+}
+
+
+.loading span {
+  display:inline-block;
+  margin: 0 -.05em;
+  animation: loading .7s infinite;
+  
+}
+.loading span:nth-child(2) {
+  animation-delay: .1s;
+}
+.loading span:nth-child(3) {
+  animation-delay: .2s;
+}
+.loading span:nth-child(4) {
+  animation-delay: .3s;
+}
+.loading span:nth-child(5) {
+  animation-delay: .4s;
+}
+.loading span:nth-child(6) {
+  animation-delay: .5s;
+}
+.loading span:nth-child(7) {
+  animation-delay: .6s;
+}
+.loading span:nth-child(8) {
+  animation-delay: .7s;
+}
+.loading span:nth-child(9) {
+  animation-delay: .8s;
+}
+.loading span:nth-child(10) {
+  animation-delay: .9s;
+}
+
+@keyframes loading {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(15px);
+  }
+}
